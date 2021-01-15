@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+    max-width: 800px;
+    margin: auto;
+    background-image: url("https://www.petsworld.in/blog/wp-content/uploads/2014/09/cat.jpg");
+}
+h1{
+    color:greenyellow;
+
+}
+
+h1 a {
+
+    color:red;
+}
+
+h2 a:hover{
+    color:orangered;
+
+
+}
+
+#lemon{
+
+    border-radius: 500px;
+    box-shadow: rgb(112, 218, 126);
+    box-shadow: 5px 10px;
+}
+
+.chessboard1 {
+
+    border-radius: 500px;
+    box-shadow: rgb(112, 218, 126);
+    box-shadow: 5px 10px;
+
+
+}
+.chessboard:hover {
+
+    border-radius: 500px;
+    box-shadow: rgb(112, 218, 126);
+    box-shadow: 5px 10px;
+}
+
+ul li a {
+    color:rgb(148, 16, 38);
+    text-decoration: none;
+    display:block;
+    padding:8px 16px;
+    
+   
+
+}
+
+.catedit:hover {
+    box-shadow: peru (10,20,25);
+    box-shadow: rgb(112, 218, 126);
+    border-radius: 500px;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
